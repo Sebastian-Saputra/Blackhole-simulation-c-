@@ -21,6 +21,7 @@ Compile kode programnya pakai g++ dengan mengaktifkan flag optimasi -O3:
 g++ -O3 main.cpp -o simulasi_bh
 
 Jalankan file eksekusinya (.exe):
+
 ./simulasi_bh
 
 Selesai! Buka file gambar hasil randeran bernama black_hole.ppm yang muncul di foldermu menggunakan ekstensi PPM Viewer di VS Code atau aplikasi pendukung lainnya.
