@@ -13,13 +13,13 @@ Cara Menjalankan:
 
 Clone atau download repository ini ke komputer kamu:
 
-1.git clone https://github.com/Sebastian-Saputra/Blackhole-simulation-c-.git
-2.cd Blackhole-simulation-c--main
+git clone https://github.com/Sebastian-Saputra/Blackhole-simulation-c-.git
+cd Blackhole-simulation-c--main
 
 Compile kode programnya pakai g++ dengan mengaktifkan flag optimasi -O3:
-3.g++ -O3 main.cpp -o simulasi_bh
+g++ -O3 main.cpp -o simulasi_bh
 
 Jalankan file eksekusinya (.exe):
-4. ./simulasi_bh
+./simulasi_bh
 
 Selesai! Buka file gambar hasil randeran bernama black_hole.ppm yang muncul di foldermu menggunakan ekstensi PPM Viewer di VS Code atau aplikasi pendukung lainnya.
