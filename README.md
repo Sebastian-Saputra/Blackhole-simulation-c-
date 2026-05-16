@@ -8,3 +8,18 @@ Fitur:
 - Simulasi Gravitational Lensing (Memvisualisasikan bagaimana gravitasi extreme dari lubang hitam melengkungkan ruang-waktu dan membelokkan cahaya)
 - Optimasi Performa Kompliasi
 - Format gambar metah (.ppm)
+
+Cara Menjalankan:
+
+Clone atau download repository ini ke komputer kamu:
+
+git clone https://github.com/Sebastian-Saputra/Blackhole-simulation-c-.git
+cd Blackhole-simulation-c--main
+
+Compile kode programnya pakai g++ dengan mengaktifkan flag optimasi -O3:
+g++ -O3 main.cpp -o simulasi_bh
+
+Jalankan file eksekusinya (.exe):
+./simulasi_bh
+
+Selesai! Buka file gambar hasil randeran bernama black_hole.ppm yang muncul di foldermu menggunakan ekstensi PPM Viewer di VS Code atau aplikasi pendukung lainnya.
