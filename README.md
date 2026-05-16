@@ -17,6 +17,7 @@ git clone https://github.com/Sebastian-Saputra/Blackhole-simulation-c-.git
 cd Blackhole-simulation-c--main
 
 Compile kode programnya pakai g++ dengan mengaktifkan flag optimasi -O3:
+
 g++ -O3 main.cpp -o simulasi_bh
 
 Jalankan file eksekusinya (.exe):
